@@ -1,10 +1,13 @@
-# Node.js template
+# Currency Converter
 
-This is a Node.js project.
+**Demo:** [Currency Converter](https://currency-converter-swc.vercel.app/)
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
 
-## Resources
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+## Technologies
+
+- **React:** Framework for building the user interface.
+  
+- **SWC:** Spectrum Web Components enhance visual appeal.
+  
+- **Vercel:** Reliable hosting solution for fast deployment.
